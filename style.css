@@ -1,0 +1,15 @@
+h1{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 10px 0px;
+}
+#img{
+    width: 100%;
+    height: 350px;
+}
+.pTag{
+    background-color: red;
+    padding: 30px;
+    color: wheat;
+}
